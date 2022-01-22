@@ -1,0 +1,10 @@
+.header {
+  padding: 1rem 1rem;
+  background-color: #4f4f4f;
+  border-bottom: 1px solid #eaeaea;
+  font-family: 'Luxurious Roman', cursive;
+  font-size: 2rem;
+  text-align: center;
+  font-weight: bolder;
+  color: #eaeaea;
+}

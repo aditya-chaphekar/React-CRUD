@@ -1,0 +1,34 @@
+.table {
+  table-layout: fixed ;
+  min-width: 90%;
+  width: 100%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-spacing: 0;
+  border-radius: 4px;
+}
+td {
+  width: 20%;
+  padding: 10px;
+  text-align: center;
+}
+.table tr td {
+  padding: .75rem;
+  vertical-align: center;
+  border: 1px solid #eceeef;
+}
+.thead tr th {
+  background-color: #4f4f4f;
+  color: #fff;
+  height: 48px;
+  border: 1px solid #eceeef;
+}
+.table-wrapper {
+  padding: 20px;
+  border-radius: 4px;
+}
+.action-col {
+  display: flex;
+  width: max-content;
+  min-width: 93%;
+  justify-content: space-evenly;
+}
